@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Django project**
 
-- 💬 Ask me about **React, flutter,python,java**
+- 💬 Ask me about **React,python,java,Dotnet**
 
 - 📫 How to reach me **meetghetiya0398@gmail.com**
 
